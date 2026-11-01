@@ -1,7 +1,7 @@
 # FinTech Credit Risk & Loan Default Prediction Engine
 
 ## Executive Dashboard Preview
-![FinTech Credit Risk Executive Dashboard](assets/tableau_dashboard_preview.png)
+![FinTech Credit Risk Executive Dashboard](tableau_dashboard_preview.png)
 
 ## 1. Business Problem
 Financial lending institutions face significant exposure to loan defaults, resulting in severe capital loss and diminished portfolio liquidity. Without granular, real-time visibility into borrower risk profiles, debt-to-income thresholds, and historical credit behavior, risk assessment teams struggle to proactively identify high-probability default accounts before delinquency occurs.
