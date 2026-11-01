@@ -28,9 +28,14 @@ We engineered a robust, end-to-end data pipeline and risk intelligence engine ac
 
 
 ## 4. Tech Stack & Architecture
+
 •	Database Engine: Microsoft SQL Server Management Studio
+
 •	Storage Vault: Excel
+
 •	Code-First Processing: Python 3.12, Pandas, NumPy, Jupyter Notebooks
+
 •	Visualization: Tableau Desktop (`.twbx`)
+
 •	Version Control: Git & GitHub
 
